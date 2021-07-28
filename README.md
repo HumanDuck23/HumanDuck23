@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
+#### I'm *HumanDuck23*, also known as *_Spqghett1#6969* on discord (haha yes funny number)
+#### What can you find here?
+###### Probably nothing that interests you tbh it's mostly random crap
+#### Aside from the random crap, there's... more... random... crap...
+#### Imma be real here this github is mostly a place for me to just randomly put stuff.
+## BUT
+#### I am actually starting to use this place for cool stuff, such as my newest hypixel-boosters website!
+#### And once again, thats it.
+##### I might add more stuff, I probably will, nothing amazing tho...
 <!--
 **HumanDuck23/HumanDuck23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
