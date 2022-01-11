@@ -9,7 +9,8 @@
 #### I am actually starting to use this place for cool stuff, such as my newest hypixel-boosters website!
 #### And once again, thats it.
 ##### I might add more stuff, I probably will, nothing amazing tho...
-### Another cool thing is my dank memer bot, dankbot-v3! :D
+#### Another cool thing is my dank memer bot, dankbot-v3! :D
+#### Dankbot-v3 has been replaced by froggo-grinder, and soon by FroggoJava!
 <!--
 **HumanDuck23/HumanDuck23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
