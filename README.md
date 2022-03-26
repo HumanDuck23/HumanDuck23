@@ -1,6 +1,12 @@
 # Hi there 👋
 
-#### I'm *HumanDuck23*, also known as *_Spqghett1#6969* on discord (haha yes funny number)
+I'm *HumanDuck23*, also known as *_Spqghett1#6969* on discord (haha yes funny number)
+
+I code all sorts of things, sometimes it's bots, sometimes it's networking related and sometimes it's something completely different. 
+Make sure to check out my current project: [Virtual Hypixel V4](https://github.com/HumanDuck23/virtual-hypixel-v4)
+
+
+<!--
 #### What can you find here?
 ###### Probably nothing that interests you tbh it's mostly random crap
 #### Aside from the random crap, there's... more... random... crap...
