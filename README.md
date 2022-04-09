@@ -3,7 +3,9 @@
 I'm *HumanDuck23*, also known as *_Spqghett1#6969* on discord (haha yes funny number)
 
 I code all sorts of things, sometimes it's bots, sometimes it's networking related and sometimes it's something completely different. 
+
 Make sure to check out my current project: [Virtual Hypixel V4](https://github.com/HumanDuck23/virtual-hypixel-v4)
+
 [Virtual Hypixel V4](https://github.com/HumanDuck23/virtual-hypixel-v4) will soon be replaced by [Virtual Hypixel V6](https://github.com/HumanDuck23/virtual-hypixel-v6), a much more customizable and easy to use version!
 
 
