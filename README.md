@@ -2,7 +2,12 @@
 
 ## Hi there!
 
-I'm *HumanDuck23*, and I code awesome things! My favorite languages include TypeScript, Kotlin and Go, but I use many other languages as well!
+I'm *HumanDuck23*, and I code awesome things!
+
+- 💻 Favorite languages: JavaScript / TypeScript, Kotlin / Java and more!
+- 🦆 Interested in automation, networking and minecraft mods :D
+
+If you want to talk to me, my discord is \_Spqghett1#6969!
 
 ---
 
