@@ -7,9 +7,9 @@ I'm *HumanDuck23*, and I code awesome things!
 - 💻 Favorite languages: JavaScript / TypeScript, Kotlin / Java and more!
 - 🦆 Interested in automation, networking and minecraft mods :D
 
-**Current Project:** Duck Dueller - A highly customizable Hypixel Duels bot ([Discord](https://discord.gg/H2X8RyJ7hs))
+**Current Project:** [pkdutils](https://github.com/Real-Parkour-Helper/pkdutils)
 
-If you want to talk to me, my discord is \_Spqghett1#6969!
+If you want to talk to me, my discord is @\_spqghett1!
 
 ---
 
